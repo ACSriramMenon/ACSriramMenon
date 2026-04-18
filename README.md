@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Python Full Stack development
 - 💻 Building a strong foundation in Python and databases
 - 📚 Exploring system design and how real-world applications work
-- 🎯 Focused on becoming a skilled backend engineer
+- 🎯 Focused on becoming a skilled full stack developer
 - 🤝 Open to learning, collaboration, and new opportunities
 - 📫 How to reach me: srirammenon5@gmail.com
