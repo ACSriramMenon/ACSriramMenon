@@ -27,7 +27,7 @@
 
 I'm a **Computer Science & Engineering student at Srinivas University Institute of Engineering & Technology, Mukka**, interested in building practical software and exploring the intersection of **Python, full-stack development and AI**.
 
-I enjoy learning by actually building things — from Python applications and data-analysis tools to hardware-software systems and AI-powered hackathon projects.
+I enjoy learning by actually building things — from Python applications and data-analysis tools to hardware-software systems and hackathon projects.
 
 ```python
 class Sriram:
@@ -68,21 +68,17 @@ class Sriram:
 <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs" />
 </p>
 
-### 📊 Data & Python Ecosystem
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 📊 Python & Data
 
 `Pandas` • `NumPy` • `Matplotlib` • `PySerial` • `Tkinter` • `Jinja`
 
 ### 🤖 AI / ML
 
-`Machine Learning` • `Computer Vision` • `AI Integration` • `Audio Processing`
+`Machine Learning` • `AI Integration` • `Computer Vision` • `Data Analysis`
 
 ### 🗄️ Databases
 
-`MySQL` • `SQLite` • `SQL` • `CSV-based Storage`
+`MySQL` • `SQL` • `CSV-based Storage`
 
 ### 🔧 Tools & Platforms
 
@@ -101,37 +97,11 @@ class Sriram:
 
 <td width="50%" valign="top">
 
-## ⚡ Thermoelectric Energy Monitoring
-
-<a href="https://github.com/ACSriramMenon/thermoelectric-electric-monitoring">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-A real-time **TEG voltage monitoring system** combining Arduino hardware with Python software.
-
-**What I worked with:**
-
-- Arduino UNO
-- Python
-- Tkinter GUI
-- Matplotlib
-- PySerial
-- Real-time data visualization
-- Serial communication
-
-**Pipeline**
-
-`TEG → Arduino → Serial → Python → Live Graph`
-
-</td>
-
-<td width="50%" valign="top">
-
 ## 💰 Student Expense Tracker
 
 A Python-based expense management application focused on practical file handling and data management.
 
-**Features include:**
+**Features**
 
 - Expense management
 - Expense ID system
@@ -149,49 +119,24 @@ A Python-based expense management application focused on practical file handling
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-## 🛡️ VoiceGuard
+## ⚡ Thermoelectric Energy Monitoring
 
-An AI-powered **voice deepfake detection project** developed around the Smart India Hackathon problem space.
+A hardware + software project for monitoring thermoelectric generator output in real time.
 
-**Concepts explored:**
+**Highlights**
 
-- Voice deepfake detection
-- Audio preprocessing
-- Spectrogram-based analysis
-- Deep learning
-- Risk scoring
-- Real-time audio processing
-- FastAPI-based backend architecture
+- Arduino UNO
+- Temperature monitoring
+- Voltage measurement
+- Serial communication
+- Python GUI
+- Live data visualization
 
-**Tech explored**
+**Tech**
 
-`PyTorch` `Wav2Vec 2.0` `WavLM` `Librosa` `FastAPI` `ONNX`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏋️ FormFit AI
-
-An AI-based fitness concept developed during **Miraethon 2K26** under the Sports & Fitness theme.
-
-The project focuses on using AI to analyze exercise posture and provide trainer-like feedback.
-
-**Concepts**
-
-- Pose analysis
-- Exercise tracking
-- Form correction
-- AI-powered recommendations
-- Fitness assistance
-
-`AI` `Computer Vision` `Python` `React`
+`Arduino` `Python` `Tkinter` `Matplotlib` `PySerial`
 
 </td>
 
@@ -209,7 +154,7 @@ A Flask-based data-analysis application for exploring road accident datasets.
 
 - Data processing
 - Statistical analysis
-- Visualization
+- Data visualization
 - Accident trend analysis
 - Web interface
 
@@ -223,19 +168,13 @@ A Flask-based data-analysis application for exploring road accident datasets.
 
 ## ⚡ Smart Classroom Energy Saver
 
-An IoT concept developed for an innovation challenge to reduce unnecessary classroom energy consumption.
+An IoT-based energy-saving project developed during a 48-hour innovation challenge.
+
+The system uses sensors to detect classroom occupancy and environmental conditions, allowing unnecessary electrical loads to be controlled automatically.
 
 **Technologies**
 
-- ESP32
-- PIR sensors
-- LDR sensors
-- Relay modules
-- Automated control
-
-**Goal**
-
-> Reduce energy wastage through intelligent classroom automation.
+`ESP32` `PIR` `LDR` `Relay` `IoT`
 
 </td>
 
@@ -254,20 +193,20 @@ An IoT concept developed for an innovation challenge to reduce unnecessary class
 |:---|:---|
 | 🥇 **1st Place — Science Reverse Pitch 2026** | 48-Hour Innovation Challenge |
 | 🥈 **2nd Place — Purrfect Code** | Tech Yuva |
-| 🚀 **Miraethon 2K26** | Hackathon Participant — Sports & Fitness |
+| 🚀 **Miraethon 2K26** | Hackathon Participant |
 | 🏗️ **Smart India Hackathon 2026** | Problem-solving & prototype development |
 | 🐍 **CS50P** | Harvard CS50's Introduction to Programming with Python |
-| 💻 **Walmart Global Tech Software Engineering Simulation** | Forage |
+| 💻 **Software Engineering Simulation** | Walmart Global Tech — Forage |
 
 </div>
 
 ---
 
-# 📚 Certifications & Learning
+# 📚 Learning & Certifications
 
 ### 🐍 CS50's Introduction to Programming with Python
 
-Completed **CS50P**, strengthening my foundations in:
+Strengthened my foundations in:
 
 `Python` • `Functions` • `OOP` • `Exceptions` • `File I/O` • `Regex` • `CSV` • `Testing` • `Libraries`
 
@@ -285,13 +224,7 @@ Completed the **Walmart Global Tech Advanced Software Engineering Job Simulation
 
 ### 🌐 Front-End Development
 
-Completed an **IBM Front End Technologies** learning program.
-
-### 🗄️ SQL & Database Design
-
-Learning and practicing:
-
-`MySQL` • `SQL Queries` • `Joins` • `Aggregation` • `Subqueries` • `Database Design`
+Completed learning in **Front-End Technologies**, strengthening my understanding of modern web development fundamentals.
 
 ---
 
@@ -369,7 +302,7 @@ Learning and practicing:
 
 ---
 
-# 🎯 2026 → 2027 Goals
+# 🎯 My Goals
 
 ```text
 ☑ Strengthen Python fundamentals
@@ -392,30 +325,20 @@ Learning and practicing:
 <div align="center">
 
 ### Learn
-
 ⬇️
-
 ### Build
-
 ⬇️
-
 ### Break
-
 ⬇️
-
 ### Debug
-
 ⬇️
-
 ### Understand
-
 ⬇️
-
 ### Build Better
 
 </div>
 
-I believe the best way to learn software development is not just by watching tutorials, but by **building things, making mistakes, debugging them and understanding why they work.**
+I believe the best way to learn software development is by **building things, making mistakes, debugging them and understanding why they work.**
 
 ---
 
