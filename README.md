@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hey, I'm A C Sriram Menon
 
@@ -9,10 +9,10 @@
 <br>
 
 <a href="https://github.com/ACSriramMenon">
-<img src="https://img.shields.io/badge/GitHub-ACSriramMenon-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-ACSriramMenon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/a-c-sriram-menon-5557a6382/">
-<img src="https://img.shields.io/badge/LinkedIn-A.C.%20Sriram%20Menon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
@@ -25,31 +25,42 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student at Srinivas University Institute of Engineering & Technology, Mukka**, interested in building practical software and exploring the intersection of **Python, full-stack development and AI**.
+I'm a **Computer Science & Engineering student at Srinivas University Institute of Engineering & Technology, Mukka**, interested in building practical software and exploring the intersection of **Python, full-stack development, and AI**.
 
-I enjoy learning by actually building things — from Python applications and data-analysis tools to hardware-software systems and hackathon projects.
+I enjoy learning by building things, experimenting with technologies, debugging problems, and turning ideas into working applications.
+
+- 🐍 Focused on Python development
+- 🌐 Exploring full-stack web development
+- 🤖 Interested in AI and machine learning
+- 🧠 Strengthening data structures and algorithms
+- 💻 Practicing problem-solving and coding challenges
+- 🚀 Participating in hackathons and innovation challenges
+- 🔧 Learning by building practical projects
 
 ```python
 class Sriram:
     def __init__(self):
         self.role = "B.Tech CSE Student"
-        self.focus = [
+        self.interests = [
             "Python Development",
             "Full-Stack Development",
             "Artificial Intelligence",
             "Problem Solving"
         ]
-        self.learning = [
+        self.currently_learning = [
             "DSA",
             "FastAPI",
             "React",
-            "Databases",
+            "SQL",
             "AI Integration"
         ]
         self.mindset = "Learn → Build → Debug → Improve"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! 👋")
+        print("Thanks for visiting my profile!")
+
+me = Sriram()
+me.say_hi()
 ```
 
 ---
@@ -59,240 +70,167 @@ class Sriram:
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" alt="Programming Languages">
 </p>
 
-### ⚙️ Frameworks & Development
+### ⚙️ Frameworks and Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs" alt="Frameworks">
 </p>
 
-### 📊 Python & Data
+### 📊 Python Libraries and Tools
 
 `Pandas` • `NumPy` • `Matplotlib` • `PySerial` • `Tkinter` • `Jinja`
 
-### 🤖 AI / ML
+### 🗄️ Databases and Storage
 
-`Machine Learning` • `AI Integration` • `Computer Vision` • `Data Analysis`
+`MySQL` • `SQL` • `CSV`
 
-### 🗄️ Databases
-
-`MySQL` • `SQL` • `CSV-based Storage`
-
-### 🔧 Tools & Platforms
+### 🔧 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,docker,linux" alt="Developer Tools">
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 💰 Student Expense Tracker
+### 💰 Student Expense Tracker
 
-A Python-based expense management application focused on practical file handling and data management.
+A Python-based expense management application designed to help students track spending and manage monthly budgets.
 
 **Features**
 
 - Expense management
-- Expense ID system
-- Search & filtering
-- Category analysis
-- Monthly reports
-- Budget tracking
-- CSV data storage
-- Exception handling
-- Input validation
+- Expense ID-based searching
+- Date and category searches
+- Monthly expense reports
+- Category-wise spending analysis
+- Monthly budget tracking
+- CSV-based data storage
+- Input validation and exception handling
 
-**Tech**
+**Tech Stack**
 
 `Python` `CSV` `File Handling`
 
 </td>
-
 <td width="50%" valign="top">
 
-## ⚡ Thermoelectric Energy Monitoring
+### ⚡ Thermoelectric Energy Monitoring
 
-A hardware + software project for monitoring thermoelectric generator output in real time.
+A hardware-software project that monitors thermoelectric generator output using Arduino and Python.
 
 **Highlights**
 
-- Arduino UNO
-- Temperature monitoring
+- Arduino UNO integration
+- Temperature sensing
 - Voltage measurement
 - Serial communication
-- Python GUI
+- Python-based monitoring interface
 - Live data visualization
 
-**Tech**
+**Tech Stack**
 
 `Arduino` `Python` `Tkinter` `Matplotlib` `PySerial`
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 Road Accident Data Analysis
-
-A Flask-based data-analysis application for exploring road accident datasets.
-
-**Features**
-
-- Data processing
-- Statistical analysis
-- Data visualization
-- Accident trend analysis
-- Web interface
-
-**Tech**
-
-`Python` `Flask` `Pandas` `Matplotlib` `HTML` `CSS`
+**Repository:** [View Project](https://github.com/ACSriramMenon/thermoelectric-electric-monitoring)
 
 </td>
-
-<td width="50%" valign="top">
-
-## ⚡ Smart Classroom Energy Saver
-
-An IoT-based energy-saving project developed during a 48-hour innovation challenge.
-
-The system uses sensors to detect classroom occupancy and environmental conditions, allowing unnecessary electrical loads to be controlled automatically.
-
-**Technologies**
-
-`ESP32` `PIR` `LDR` `Relay` `IoT`
-
-</td>
-
 </tr>
 </table>
 
-</div>
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place — Purrfect Code**, Tech Yuva
+- 🏆 **Science Reverse Pitch 2026** — 48-hour innovation challenge
+- 🚀 **Miraethon 2K26** — Hackathon participant
+- 💻 **Walmart Global Tech Advanced Software Engineering Job Simulation**
+- 🐍 **CS50's Introduction to Programming with Python**
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| 🏅 Achievement | 📌 |
-|:---|:---|
-| 🥇 **1st Place — Science Reverse Pitch 2026** | 48-Hour Innovation Challenge |
-| 🥈 **2nd Place — Purrfect Code** | Tech Yuva |
-| 🚀 **Miraethon 2K26** | Hackathon Participant |
-| 🏗️ **Smart India Hackathon 2026** | Problem-solving & prototype development |
-| 🐍 **CS50P** | Harvard CS50's Introduction to Programming with Python |
-| 💻 **Software Engineering Simulation** | Walmart Global Tech — Forage |
-
-</div>
-
----
-
-# 📚 Learning & Certifications
+## 📚 Learning and Certifications
 
 ### 🐍 CS50's Introduction to Programming with Python
 
-Strengthened my foundations in:
+Practiced Python fundamentals and programming concepts, including:
 
-`Python` • `Functions` • `OOP` • `Exceptions` • `File I/O` • `Regex` • `CSV` • `Testing` • `Libraries`
+`Functions` • `Object-Oriented Programming` • `Exceptions` • `File I/O` • `Regular Expressions` • `CSV` • `Testing` • `Libraries`
 
 ### 💻 Software Engineering
 
-Completed the **Walmart Global Tech Advanced Software Engineering Job Simulation**, working through practical tasks involving:
-
-- Data structures
-- Heap implementation
-- UML
-- Database design
-- ERD
-- Python automation
-- SQLite
+Completed the Walmart Global Tech Advanced Software Engineering Job Simulation, gaining exposure to practical software engineering tasks involving data structures, algorithms, database design, UML, and Python.
 
 ### 🌐 Front-End Development
 
-Completed learning in **Front-End Technologies**, strengthening my understanding of modern web development fundamentals.
+Developing my understanding of web technologies, including HTML, CSS, and JavaScript.
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 ```text
-                         ┌─────────────────────┐
-                         │    Python Backend   │
-                         └──────────┬──────────┘
-                                    │
-                           ┌────────▼────────┐
-                           │     FastAPI     │
-                           └────────┬────────┘
-                                    │
-                    ┌───────────────▼───────────────┐
-                    │       Databases + SQL         │
-                    └───────────────┬───────────────┘
-                                    │
-                           ┌────────▼────────┐
-                           │      React      │
-                           └────────┬────────┘
-                                    │
-                    ┌───────────────▼───────────────┐
-                    │       AI Integration          │
-                    └───────────────┬───────────────┘
-                                    │
-                           ┌────────▼────────┐
-                           │ DSA + LeetCode  │
-                           └─────────────────┘
+Python Development
+        │
+        ▼
+Backend Development — FastAPI
+        │
+        ▼
+SQL & Database Design
+        │
+        ▼
+Frontend Development — React
+        │
+        ▼
+AI Integration
+        │
+        ▼
+DSA & LeetCode
+        │
+        ▼
+Building Better Projects
 ```
 
-### My current focus
+**My current focus**
 
-- 🐍 Python development
-- ⚡ FastAPI
-- 🌐 Full-stack development
-- 🗄️ SQL & database design
-- ⚛️ React
-- 🤖 AI integration
-- 🧠 Data Structures & Algorithms
-- 💻 LeetCode
-- 🐳 Docker
-- 🔐 REST APIs
-- 🚀 Building deployable projects
+- 🐍 Strengthening Python
+- ⚡ Learning FastAPI and REST APIs
+- 🗄️ Practicing SQL and database design
+- 🌐 Exploring full-stack development
+- 🤖 Learning AI integration
+- 🧠 Practicing Data Structures and Algorithms
+- 💻 Solving LeetCode problems
+- 🐳 Exploring Docker and deployment
+- 🌱 Understanding open-source contribution
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ACSriramMenon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ACSriramMenon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACSriramMenon&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACSriramMenon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ACSriramMenon&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ACSriramMenon&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -300,68 +238,57 @@ Completed learning in **Front-End Technologies**, strengthening my understanding
 
 </div>
 
----
-
-# 🎯 My Goals
-
-```text
-☑ Strengthen Python fundamentals
-☑ Build real-world Python projects
-☑ Learn Git & GitHub
-☑ Explore AI development
-☐ Master FastAPI
-☐ Build production-ready full-stack applications
-☐ Strengthen DSA fundamentals
-☐ Consistently practice LeetCode
-☐ Learn Docker & deployment
-☐ Contribute to Open Source
-☐ Build impactful AI-powered projects
-```
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate the SVG. If you haven't configured that workflow yet, this image may not appear.
 
 ---
 
-# 💡 How I Learn
+## 🎯 My Goals
+
+- [x] Strengthen Python fundamentals
+- [x] Build practical Python projects
+- [x] Learn Git and GitHub
+- [ ] Improve DSA and problem-solving skills
+- [ ] Build full-stack applications
+- [ ] Strengthen backend development
+- [ ] Explore AI-powered applications
+- [ ] Practice LeetCode consistently
+- [ ] Learn deployment and Docker
+- [ ] Contribute to open source
+
+---
+
+## 💡 My Development Philosophy
 
 <div align="center">
 
-### Learn
-⬇️
-### Build
-⬇️
-### Break
-⬇️
-### Debug
-⬇️
-### Understand
-⬇️
-### Build Better
+### Learn → Build → Break → Debug → Understand → Improve
 
 </div>
 
-I believe the best way to learn software development is by **building things, making mistakes, debugging them and understanding why they work.**
+I believe the best way to learn software development is to build things, make mistakes, debug them, and understand why they work.
+
+Every project is an opportunity to learn something new and become a better developer.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in:
-
-`Software Development` • `AI` • `Full-Stack Development` • `Hackathons` • `Open Source` • `Problem Solving`
+I'm interested in software development, AI, full-stack development, hackathons, open source, and problem-solving.
 
 <div align="center">
 
 <a href="https://github.com/ACSriramMenon">
-<img src="https://img.shields.io/badge/GitHub-ACSriramMenon-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-ACSriramMenon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
 <a href="https://www.linkedin.com/in/a-c-sriram-menon-5557a6382/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
 <br><br>
 
 ### 🚀 Keep Building. Keep Learning.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:6C63FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:6C63FF&height=100&section=footer" alt="Footer Banner">
 
 </div>
